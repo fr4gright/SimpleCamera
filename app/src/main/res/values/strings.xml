@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Simple Camera</string>
+    <string name="take_photo">TAKE PHOTO</string>
+    <string name="start_capture">RECORD VIDEO</string>
+    <string name="share_image">Share</string>
+    <string name="share_video">Share</string>
+    <string name="image">IMAGE</string>
+    <string name="video">VIDEO</string>
+    <string name="start_recording">START</string>
+    <string name="stop_recording">STOP</string>
+    <string name="delete">Delete</string>
+</resources>
